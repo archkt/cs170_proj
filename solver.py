@@ -1,4 +1,5 @@
 from parse import read_input_file, write_output_file
+
 import os
 
 def solve(tasks):
